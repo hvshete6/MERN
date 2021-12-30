@@ -1,0 +1,7 @@
+to connect frontend and backend , just hold the url in a variable and thats it.
+In env file :- REACT_APP_BACKEND=123
+REACT_APP_ is prefix compulsary before a variable. BACKEND is the name of the variable
+
+The following resource is helpfull if you want to host app on AWS etc.
+https://serverless-stack.com/chapters/environments-in-create-react-app.html
+
